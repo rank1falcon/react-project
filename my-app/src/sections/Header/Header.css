@@ -1,0 +1,23 @@
+.cyborg-navbar{
+    min-height: 100px;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+  }
+  
+  li {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+img {
+    width: 191px;
+}
+.logo {
+    margin-right: 5px;
+    margin-left: 5px;
+    height: 50px;
+}

@@ -1,0 +1,9 @@
+export {default as Header} from './Header/Header'
+export {default as Hero} from "./Hero/Hero"
+export {default as MostPopular} from "./MostPopular/MostPopular"
+export {default as GamingLibrary} from "./GamingLibrary/GamingLibrary"
+export {default as Footer} from './Footer/Footer'
+export {default as GamerProfile} from './GamerProfile/GamerProfile'
+export {default as BrowseContent} from './BrowseContent/BrowseContent'
+export {default as StreamsContent} from './StreamsContent/StreamsContent'
+export {default as DetailsContent} from './DetailsContent/DetailsContent'
